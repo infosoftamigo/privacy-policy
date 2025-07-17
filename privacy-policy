@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Privacy Policy - AmigoFX Apps</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f7f9fb;
+      color: #333;
+      padding: 20px;
+      max-width: 900px;
+      margin: auto;
+      line-height: 1.6;
+    }
+    h1, h2 {
+      color: #0056b3;
+    }
+    a {
+      color: #007bff;
+    }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p><strong>Effective Date:</strong> July 17, 2025</p>
+
+  <p>This Privacy Policy applies to all mobile applications and software products developed and published by <strong>AmigoFX</strong> (also referred to as "we", "our", or "us") on the Google Play Store and other platforms.</p>
+
+ 
+  <h2>1. Information We Collect</h2>
+  <ul>
+    <li><strong>Personal Information:</strong> Name, email address, contact information (if submitted).</li>
+    <li><strong>Device Info:</strong> Device type, OS version, IP address, unique device identifiers.</li>
+    <li><strong>Usage Data:</strong> Interaction logs, crash reports, feature usage statistics.</li>
+  </ul>
+
+  <h2>2. How We Use Information</h2>
+  <ul>
+    <li>To operate and improve our apps and services</li>
+    <li>To communicate with users for support or feedback</li>
+    <li>To analyze usage trends and fix technical issues</li>
+  </ul>
+
+  <h2>3. Children’s Privacy</h2>
+  <p>Our apps are not designed to knowingly collect personal data from children under the age of 13. If we discover such data, we will delete it promptly. If any app targets children, appropriate safeguards are applied according to Google Play's Families Policy.</p>
+
+  <h2>4. Third-Party Access</h2>
+  <p>We do not sell your information. We may use or integrate with third-party services (e.g., Firebase, analytics, ads) under their privacy terms. These providers may collect anonymized data to help us improve services.</p>
+
+  <h2>5. Data Security</h2>
+  <p>We use industry-standard measures to protect your information, but no method of transmission or storage is 100% secure.</p>
+
+  <h2>6. User Control</h2>
+  <p>Users can manage permissions, opt out of certain features, or delete the app to stop data collection. If you need to access or delete data, please contact us.</p>
+
+  <h2>7. Changes to This Policy</h2>
+  <p>We may update this privacy policy from time to time. Changes will be posted on this page with a revised effective date.</p>
+
+  <h2>8. Contact Us</h2>
+  <p>For questions or concerns, reach out to us:</p>
+  <p>Email: <a href="mailto:infosoftamigo@gmail.com">infosoftamigo@gmail.com</a></p>
+  <p>Website: <a href="https://www.amigofx.com">www.amigofx.com</a></p>
+</body>
+</html>
